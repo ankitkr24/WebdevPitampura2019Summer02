@@ -1,0 +1,20 @@
+<html>
+    <body>
+        <table border="1">
+            <thead>
+                <td>Name</td>
+                <td>Roll number</td>
+            </thead>
+            <tr>
+                <td colspan="1" align="cente"> col1</td>
+                <td>col2</td>
+            </tr>
+            <tr>
+                <td>col1</td>
+                <td>col2</td>
+            </tr>
+
+
+        </table>
+    </body>
+</html>
