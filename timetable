@@ -1,20 +1,29 @@
 <html>
     <body>
         <table border="1">
-            <thead>
-                <td>Name</td>
-                <td>Roll number</td>
-            </thead>
-            <tr>
-                <td colspan="1" align="cente"> col1</td>
-                <td>col2</td>
-            </tr>
-            <tr>
-                <td>col1</td>
-                <td>col2</td>
-            </tr>
-
-
+        <tr>
+         <td>maths</td>
+         <td>chem</td>
+         <td rowspan="4">F <br> R<br> E<br> E<br></td>
+         <td>physics</td>
+        </tr>
+        <tr>
+          <td colspan="2">games</td>
+          <td>Physics</td>
+        </tr>
+        <tr>
+                <td>Maths</td>
+                <td>English</td>
+                
+                <td>Physics</td>
+              </tr>
+              <tr>
+                    <td>Maths</td>
+                    <td>English</td>
+                    
+                    <td>Physics</td>
+                  </tr>
+        </thead>
         </table>
     </body>
 </html>
